@@ -1,0 +1,7 @@
+fastai
+matplotlib
+numpy
+scikit-learn
+seaborn
+torch
+torchvision
